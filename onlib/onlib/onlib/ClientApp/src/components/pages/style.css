@@ -1,0 +1,100 @@
+.navbar {
+    background: white;
+    font-size: 24px;
+}
+
+.nav-link, .navbar-brand {
+    color: #f4f4f4;
+    cursor: pointer;
+}
+
+.nav-link {
+    margin-right: 1em !important;
+}
+
+    .nav-link:hover {
+        background: #f4f4f4;
+        color: #f97300;
+    }
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.navbar-toggler {
+    background: #fff !important;
+}
+
+.navbar-nav {
+    margin-left: 0px;
+    width: 100%;
+}
+
+.rightbar{
+    
+}
+
+.news-photo {
+    width: 400px;
+    height: 100px;
+    display: inline-block;
+}
+
+
+.form-inline{
+    
+    
+}
+.bbr {
+    width: 300px;
+}
+.form1{
+    height:70px;
+    width: 100%;
+}
+
+.form-control {
+    height: 70px;
+    width: 100px;
+}
+
+.btn {
+    height: 70px; 
+    width: 100px;
+    border-color:aqua;
+    padding:0px;
+}
+.img1 {
+    height: 60px;
+    width: 90px;
+}
+.card {
+    display: inline-block;
+    text-align:center;
+    margin-top: 67px;
+    margin-left: 50px;
+    margin-bottom: 70px;
+    padding-left: 100px;
+}
+.photob{
+   height:300px;
+   width:200px;
+}
+
+.centerb {
+    margin: 0px;
+}
+.centerbtn {
+    width:100%;
+    
+}
+a:hover {
+    text-shadow:  0 0 1em red;
+}
+.nav-left {
+    color:white;
+}
+
+
+
+

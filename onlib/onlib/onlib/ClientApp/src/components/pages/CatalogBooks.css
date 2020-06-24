@@ -1,0 +1,26 @@
+﻿body {
+}
+
+.portfolio {
+    margin: 4em 0;
+    position: relative;
+    text-align:center;
+ 
+}
+
+    .portfolio h1 {
+        color: aqua;
+        margin: 1em;
+    }
+
+    .portfolio img {
+        height: 15rem;
+        margin: 1.5em;
+    }
+
+
+
+.row {
+    width:100%;
+}
+

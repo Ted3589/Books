@@ -1,0 +1,146 @@
+body {
+    color: #8f8f8f;
+    font: 12px Tahoma, sans-serif;
+    background-color: #f8f8f8;
+    border-top: 5px solid #7e7e7e;
+    margin: 0;
+}
+
+
+input[type="text"] {
+    background-color: w;
+    border: 1px solid #e7e7e7;
+    height: 30px;
+    color: #b2b2b2;
+    padding: 0 10px;
+    vertical-align: top;
+}
+button {
+    color: #fff;
+    background-color: #29c5e6;
+    border: none;
+    font-family: 'Oswald', sans-serif;
+	width: 200px;
+    height: 50px;
+    font-size: 25pt;
+}
+
+li{
+    font-size: 20px;
+margin-right: 10px;
+}
+form[name="search"] {
+    float: left;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    list-style-position: inside;
+    font: 14px 'Oswald', sans-serif;
+    padding: 10px;
+}
+.h-menu{
+    background-color: azure;
+}
+
+.h-menu li {
+    display: inline-block;
+    padding: 10px 30px;
+    margin: 0;
+}
+
+.h-menu li.active {
+    background: #29c5e6;
+    color: #fff;
+}
+
+.h-menu a {
+    color: #111111;
+    font-size: xx-large;
+
+}
+
+.top-menu{
+    background-color: grey;
+}
+.n1{
+    background-color: darkgray;
+}
+.top-menu li {
+    display: inline-block;
+    padding: 10px 30px;
+    margin: 0;
+}
+
+.top-menu li.active {
+    background: #29c5e6;
+    color: #fff;
+}
+
+.top-menu a {
+    color: #111111;
+    font-size: xx-large;
+
+}
+
+figure {
+    display: inline-block;
+    margin: 100px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+}
+
+figure img {
+    display: block;
+    border: 1px solid #fff;
+    outline: 1px solid #c9c9c9;
+    width: 200px;
+    height: 300px;
+}
+p{
+font-size: 20pt;
+}
+
+figure figcaption {
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 5px;
+
+}
+
+figure figcaption span {
+    display: block;
+    font-size: 14px;
+    color: #29c5e6;
+    margin-top: 15px;
+    font-size: 20pt;
+    text-align: center;
+}
+
+figure figcaption {
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 5px;
+}
+
+figure div {
+    font-size: 14px;
+    color: #29c5e6;
+}
+
+.book-row figure {
+    margin-top: 20px;
+}
+
+.book-row figure + figure {
+    margin-left: 43px;
+}
+
